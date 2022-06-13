@@ -1,0 +1,25 @@
+.header {
+  color: red;
+  background-color: violet;
+  font-size: 3em;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+.Intocode {
+  font-size: 2em;
+  width: 100%;
+  background-color: aqua;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.Footer {
+  font-size: 1.5em;
+  width: 100%;
+  background-color: royalblue;
+  text-align: center;
+  margin-top: 5%;
+}
+
